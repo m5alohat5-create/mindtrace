@@ -1,0 +1,6 @@
+{
+  "name": "MINDTRACE",
+  "description": "AI-приложение для подростков и молодёжи, которое помогает обнаруживать скрытые способности, анализирует стиль мышления и строит индивидуальную карту навыков.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
